@@ -1,0 +1,31 @@
+{
+  "groups": [
+    {
+      "groupName": "w4fwf",
+      "numOfPlayer": "3",
+      "member": [
+        {
+          "player": 1,
+          "name": "fw4f4wfw4f",
+          "color": "#d95000"
+        },
+        {
+          "player": 2,
+          "name": "4w4wf",
+          "color": "#00fdff"
+        },
+        {
+          "player": 3,
+          "name": "w4rfw4f4w",
+          "color": "#ffd9a8"
+        },
+        {
+          "player": 4,
+          "name": "",
+          "color": ""
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

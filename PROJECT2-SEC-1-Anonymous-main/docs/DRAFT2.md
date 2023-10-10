@@ -1,0 +1,13 @@
+## DRAFT 2 By Figma
+### Welcom Page (Page1)
+![P1](https://user-images.githubusercontent.com/88100445/224480748-95eb379b-52c4-4086-9f36-cae12de46553.png)
+### How To Play  (Page2)
+![P2](https://user-images.githubusercontent.com/88100445/224480751-b2dc00d4-179b-4734-a960-d0c5d9751098.png)
+### User Info  (Page3)
+![P3](https://user-images.githubusercontent.com/88100445/224480752-bd9506b5-d66f-45b8-91d3-f7c4e0e4b893.png)
+### Game (Page4)
+![P4](https://user-images.githubusercontent.com/88100445/224480756-c4dda679-83ab-44c1-a1cc-af51cf0b090d.png)
+### Spacil Card  (Page5)
+![P5](https://user-images.githubusercontent.com/88100445/224480757-bd57c841-6a99-4b3f-b140-a5f2b69d116a.png)
+### The Winner  (Page6)
+![P6](https://user-images.githubusercontent.com/88100445/224480758-25ddaf31-2e5d-4ee2-9ce7-7bf0bf3b8069.png)
